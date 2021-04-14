@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" />
 
 <hr>
@@ -9,4 +13,4 @@
 <hr>
 
 <h1>MY PROFILE</h1>
-<p style="text-align: center;">TECHNOLOGY STACK</p>
+<h2 align="center" font-family="Montserrat, sans-serif;">MY TECHNOLOGY STACK</h2>
