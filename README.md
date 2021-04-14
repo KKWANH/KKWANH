@@ -8,7 +8,7 @@
 
 <hr>
 
-<h3>MY PROFILE</h3>
+<h1>MY PROFILE</h1>
 
 <br>
 <p>I was born in KOREA, in 2004.</p>
