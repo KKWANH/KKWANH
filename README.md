@@ -2,5 +2,7 @@
 
 <hr>
 
-<p><b>⚠️ warning ⚠️: this profile is for DARK MODE (github).</b><br><b>PLEASE turn on the dark mode on github.</b></p>
+<h3>⚠️ warning ⚠️</h3>
+<b>this profile is for DARK MODE (github).</b><br>
+<b>PLEASE turn on the dark mode on github.</b>
 <img src="https://im7.ezgif.com/tmp/ezgif-7-b1711d808a77.gif"></img>
