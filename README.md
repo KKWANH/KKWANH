@@ -9,6 +9,4 @@
 <hr>
 
 <h1>MY PROFILE</h1>
-
-<br>
-<p>I was born in KOREA, in 2004.</p>
+<p style="text-align: center">TECHNOLOGY STACK</p>
