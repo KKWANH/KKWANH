@@ -1,6 +1,1 @@
-<div id="kkwanh_main_div">
-    <div style="text-align: center;">
-        <h1>Hello, KKWANH!</h1>
-    </div>
-    <hr>
-</div>
+<h1 style="text-align: center;">Hello, world! 🎹</h1>
