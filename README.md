@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=30A9DE&height=170&section=header&text=KKIM's Git&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
