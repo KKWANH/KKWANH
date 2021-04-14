@@ -4,6 +4,11 @@
 
 <h3>⚠️ WARNING ⚠️</h3>
 <b>this profile is for DARK MODE! PLEASE turn on the dark mode on github.</b><br><br>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-b1711d808a77.gif"></img><br>
+<img src="https://im7.ezgif.com/tmp/ezgif-7-b1711d808a77.gif"></img>
 
 <hr>
+
+<h3>MY PROFILE</h3>
+
+<br>
+<p>I was born in KOREA, in 2004.</p>
