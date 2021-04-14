@@ -9,4 +9,4 @@
 <hr>
 
 <h1>MY PROFILE</h1>
-<p style="text-align: center">TECHNOLOGY STACK</p>
+<p style="text-align: center;">TECHNOLOGY STACK</p>
