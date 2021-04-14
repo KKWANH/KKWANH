@@ -2,4 +2,4 @@
 
 <hr>
 
-<p>warning: this profile is for DARK MODE (github).</p>
+<p><b>⚠️ warning ⚠️: this profile is for DARK MODE (github).</b></p>
