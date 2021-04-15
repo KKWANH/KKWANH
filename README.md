@@ -8,5 +8,5 @@
 
 <hr>
 
-<h1>MY PROFILE 👤</h1>
-<h2 align="center">MY TECHNOLOGY STACK 🛠</h2>
+<h1>👤 MY PROFILE</h1>
+<h2 align="center">🛠 MY TECHNOLOGY STACK</h2>
