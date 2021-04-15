@@ -3,8 +3,8 @@
 <hr>
 
 <h3 align="center">⚠️ WARNING ⚠️</h3>
-<p align="center"><b>this profile is for DARK MODE! PLEASE turn on the dark mode on github.</b></p><br><br>
-<img width="50%" src="https://im7.ezgif.com/tmp/ezgif-7-b1711d808a77.gif"></img></div>
+<p align="center"><b>this profile is for DARK MODE! PLEASE turn on the dark mode on github.</b></p>
+<p align="center"><img width="50%" src="https://im7.ezgif.com/tmp/ezgif-7-b1711d808a77.gif"></img></p>
 
 <hr>
 
