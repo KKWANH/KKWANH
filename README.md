@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" /></p>
 
 <hr>
 
