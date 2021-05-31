@@ -1,6 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" /></p>
 
 <hr>
+[![kkim's 42 stats](https://badge42.herokuapp.com/api/stats/intra_id)](https://github.com/KKWANH/badge42)
 
 <h3 align="center">⚠️ WARNING ⚠️</h3>
 <p align="center"><b>this profile is for DARK MODE! PLEASE turn on the dark mode on github.</b></p>
