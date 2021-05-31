@@ -1,7 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" /></p>
 
 <hr>
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/kkim)](https://github.com/JaeSeoKim/badge42)
+[![kkim's 42 stats](https://badge42.herokuapp.com/api/stats/kkim)](https://github.com/JaeSeoKim/badge42)
 <!--[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/intra_id/project_name)](https://github.com/JaeSeoKim/badge42)-->
 
 
