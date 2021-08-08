@@ -1,7 +1,3 @@
-<!-- <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=50555B&height=300&section=header&text=KKIM's%20Profile!&fontColor=FFFFFF&fontSize=90" /></p>
-
-<hr>
- -->
 # WELCOME TO MY GITHUB 😎
 #### ![42](https://badgen.net/badge/Born2Code/kkim/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKWANH&count_bg=%236AC922&title_bg=%23252525&icon=&icon_color=%23FFFFFF&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 
