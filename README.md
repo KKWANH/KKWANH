@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+![hello_world_white](https://user-images.githubusercontent.com/35485904/187820551-acac4f02-711b-45d6-a867-c052cea6e14a.gif)
 
 ### <h1 align="center">I'm kkim, a developer trying to develop myself globally 🌎 </h1>  
   
