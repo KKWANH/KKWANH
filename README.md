@@ -84,7 +84,7 @@
 
 
 ## Recent Blog Posts  
-You can see me in [my blog](https://kkim-blog.tistory,com)  
+You can see me in [my blog](https://kkim-blog.tistory.com)  
   
 
 <br/>  
