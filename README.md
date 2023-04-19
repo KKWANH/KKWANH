@@ -10,6 +10,10 @@
   
 
 - ⚡ I was born in 2004  
+
+[![kkim's 42 stats](https://badge42.vercel.app/api/v2/cl5e8qfs1002609mcoup97f4o/stats?cursusId=67&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
+
   
 
 <br/>  
