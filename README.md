@@ -3,13 +3,13 @@
 ### <h1 align="center">I'm kkim, a developer trying to develop myself globally 🌎 </h1>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME)
   
 
-- 🌱 I’m currently learning AI, Algorithm, and languages  
+- 🌱 I’m currently learning Computer Science, Car-Related Programming, Embedded, Automotive, and ...etc
   
 
-- ⚡ I was born in 2004  
+- ⚡ I was born in May 2004
 
 [![kkim's 42 stats](https://badge42.vercel.app/api/v2/cl5e8qfs1002609mcoup97f4o/stats?cursusId=67&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 
@@ -66,7 +66,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
+<a href="https://github.com/KKWANH" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/kwanho._kim" target="_blank">
@@ -85,7 +85,7 @@
 
 
 ## Recent Blog Posts  
-You can see me in [my blog](https://kkim-blog.tistory.com)  
+You can see me in [kkim.info](https://www.kkim.info)
   
 
 <br/>  
@@ -97,12 +97,3 @@ You can see me in [my blog](https://kkim-blog.tistory.com)
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KKWANH&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
