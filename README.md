@@ -6,8 +6,13 @@
 - 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME), [42 - Wolfsburg Campus](https://github.com/42School)
 - 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" /></div>
 
+<style>
+table {
+    width: 100%;
+}
+</style>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -23,8 +28,17 @@
 ## My Skill Set
 Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/skill-levels)
 
+<div style="display: flex; align-items: center;">
+    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
+    <span>
+        &nbsp;&nbsp;&nbsp;<b>React</b>&nbsp;&nbsp;&nbsp;
+    </span>
+    <img src="/asset/img/skill-level-3.png" height="20">
+</div>
+
+
 <table width="100%"><tbody>
-<tr width="100%"><td>
+<tr width="100%"><td width="100%">
 <h2>Competent Level</h2>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 </td></tr>
