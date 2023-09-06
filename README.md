@@ -1,28 +1,31 @@
-![hello_world_white](https://user-images.githubusercontent.com/35485904/187820551-acac4f02-711b-45d6-a867-c052cea6e14a.gif)
+![hello_world](/asset/img/hello_world.gif)
 
-### <h1 align="center">I'm kkim, a developer trying to develop myself globally 🌎 </h1>  
-  
+<h1 align="center">I'm kkim, a developer trying to develop myself globally 🌎</h1>  
 
-- 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME)
-  
+- ⚡ I was born in `May, 2004`
+- 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME), [42 - Wolfsburg Campus](https://github.com/42School)
+- 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
-- 🌱 I’m currently learning Computer Science, Car-Related Programming, Embedded, Automotive, and ...etc
-  
-
-- ⚡ I was born in May 2004
-
-[![kkim's 42 stats](https://badge42.vercel.app/api/v2/cl5e8qfs1002609mcoup97f4o/stats?cursusId=67&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KKWANH&&style=flat-square" align="center" />
+</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 
-  
 
-<br/>  
-
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [My Skill Set](#my-skill-set)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [CS Basics](#cs-basics)
+- [Connect with me](#connect-with-me)
+- [Current-working-on projects](#current-working-on-projects)
+  - [42 Projects](#42-projects)
+- [Recent Blog Posts](#recent-blog-posts)
 
 ## My Skill Set  
 <table width="100%"><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -39,7 +42,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
@@ -51,7 +53,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### CS Basics  
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -60,8 +61,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
@@ -73,27 +72,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
+## Current-working-on projects
+### 42 Projects
 
 ## Recent Blog Posts  
 You can see me in [kkim.info](https://www.kkim.info)
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KKWANH&&style=flat-square" align="center" />
-</div>  
