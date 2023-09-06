@@ -6,13 +6,8 @@
 - 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME), [42 - Wolfsburg Campus](https://github.com/42School)
 - 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" /></div><br />
 
-<style>
-table {
-    width: 100%;
-}
-</style>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -28,8 +23,29 @@ table {
 ## My Skill Set
 Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/skill-levels)
 
+<div
+    style="text-align: center; border:1px solid white; padding: 10px;"
+    width="70px"
+>
+    <img
+        src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+        alt="React"
+        style="display: block; margin: auto;"
+        height="50" />
+    <span
+        style="display: block; margin: auto;">
+        <b>React</b>
+    </span>
+    <img
+        src="/asset/img/skill-level-3.png"
+        width="50">
+</div>
+
 <div style="display: flex; align-items: center;">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" />
+    <img
+        src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"
+        alt="React"
+        height="30" />
     <span>
         &nbsp;&nbsp;&nbsp;<b>React</b>&nbsp;&nbsp;&nbsp;
     </span>
