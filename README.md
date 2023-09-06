@@ -20,11 +20,29 @@
   - [42 Projects](#42-projects)
 - [Recent Blog Posts](#recent-blog-posts)
 
-## My Skill Set  
+## My Skill Set
+Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/skill-levels)
+
+<table width="100%"><tbody>
+<tr width="100%"><td>
+<h2>Competent Level</h2>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+</td></tr>
+<tr width="100%"><td>
+asd
+</td></tr>
+<tr width="100%"><td>
+asd
+</td></tr>
+</tbody></table>
+
+
 <table width="100%"><tr><td valign="top" width="33%">
 
-### Frontend  
-<div align="center">  
+### Frontend
+<div align="center">
+<hr height="0.5px">
+<h4> Competent
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
