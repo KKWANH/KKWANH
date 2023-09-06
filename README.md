@@ -6,11 +6,8 @@
 - 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME), [42 - Wolfsburg Campus](https://github.com/42School)
 - 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=KKWANH&&style=flat-square" align="center" />
-</div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only" align="center" /></div>
 
 
 ## Table of Contents
@@ -79,3 +76,5 @@
 
 ## Recent Blog Posts  
 You can see me in [kkim.info](https://www.kkim.info)
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=KKWANH&&style=flat-square" /></div>
