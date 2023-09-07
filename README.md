@@ -7,7 +7,11 @@
 - 🔭 I’m currently studying on [SEA-ME](https://github.com/SEA-ME), [42 - Wolfsburg Campus](https://github.com/42School)
 - 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" /></div><br />
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" />
+    <img src="https://badge.mediaplus.ma/colorfulwaves/kkim?1337Badge=off&UM6P=off" align="center">
+</div>
+<br />
 
 
 ## Table of Contents
