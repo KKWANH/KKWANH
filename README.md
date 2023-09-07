@@ -8,8 +8,8 @@
 - 🌱 Areas of recent interest: `Mobility Ecosystems`, `Embedded`, `Flutter`, `QT`, `Automobility`, `UI Design`, `Frontent`
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" align="center" />
-    <img src="https://badge.mediaplus.ma/colorfulwaves/kkim?1337Badge=off&UM6P=off" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KKWANH&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark" width="48%" align="center" />
+    <img src="https://badge.mediaplus.ma/colorfulwaves/kkim?1337Badge=off&UM6P=off" width="48%" align="center">
 </div>
 <br />
 
