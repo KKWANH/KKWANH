@@ -35,6 +35,38 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 
 
 #### Software Development
+
+<table>
+    <tr>
+        <th align="center">★★✩✩✩</th>
+        <th align="center">★✩✩✩✩</th>
+    </tr>
+    <tr>
+        <td>
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+        </td>
+        <td>
+```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+```
+        </td>
+    </tr>
+</table>
+
 <table width="100%">
     <tr width="100%">
         <th valign="top" width="33%">★★★✩✩</th>
