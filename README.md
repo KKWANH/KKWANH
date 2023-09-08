@@ -40,10 +40,11 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 > ★★✩✩✩
 > <img src="https://skillicons.dev/icons?i=java" />
 
-<p>★★★✩✩</p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,qt" />
-<p>★★✩✩✩</p>
-<img src="https://skillicons.dev/icons?i=java" />
+★★★✩✩
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
+
+★★✩✩✩
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 <table width="100%">
