@@ -18,6 +18,7 @@
 - [Table of Contents](#table-of-contents)
 - [My Skill Set](#my-skill-set)
     - [Software Development](#software-development)
+- [](#)
     - [Web Development](#web-development)
     - [Level 3 - Competent](#level-3---competent)
     - [Level 2 - Advanced Beginner](#level-2---advanced-beginner)
@@ -35,37 +36,9 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 
 
 #### Software Development
-
-<table>
-    <tr>
-        <th align="center">★★✩✩✩</th>
-        <th align="center">★✩✩✩✩</th>
-    </tr>
-    <tr>
-        <td>
-```jsonc
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-```
-        </td>
-        <td>
-<code>
-{
-  "foo": [
-    {
-      "bar": "hello world"
-    }
-  ]
-}
-</code>
-        </td>
-    </tr>
-</table>
+★★★✩✩
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
+- 
 
 <table width="100%">
     <tr width="100%">
