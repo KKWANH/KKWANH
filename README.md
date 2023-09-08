@@ -32,7 +32,6 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 ★✩✩✩✩ : Level 1 - Novice
 ```
 
-
 #### Software Development
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt,java)](https://skillicons.dev)
 #### Web Development
@@ -48,7 +47,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/KKWANH" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github/>
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=black alt=github/>
 </a>
 <a href="https://instagram.com/kwanho._kim" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=rgb(214,41,118) alt=instagram/>
