@@ -43,7 +43,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     </tr>
     <tr>
         <td>
-```jsonc
+<code>
 {
   "foo": [
     {
@@ -51,10 +51,10 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     }
   ]
 }
-```
+</code>
         </td>
         <td>
-```jsonc
+<code>
 {
   "foo": [
     {
@@ -62,7 +62,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     }
   ]
 }
-```
+</code>
         </td>
     </tr>
 </table>
