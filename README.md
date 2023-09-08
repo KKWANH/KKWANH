@@ -36,9 +36,9 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 
 #### Software Development
 > ★★★✩✩
-> <img src="https://skillicons.dev/icons?i=c,cpp,python,qt" />
+> [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
 > ★★✩✩✩
-> <img src="https://skillicons.dev/icons?i=java" />
+> [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 ★★★✩✩
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
