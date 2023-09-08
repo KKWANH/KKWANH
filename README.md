@@ -43,7 +43,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     </tr>
     <tr>
         <td>
-<code>
+```jsonc
 {
   "foo": [
     {
@@ -51,7 +51,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     }
   ]
 }
-</code>
+```
         </td>
         <td>
 <code>
@@ -76,11 +76,13 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     <tr>
         <td valign="top" width="33%">
             <img
+                width="100%"
                 src="https://skillicons.dev/icons?i=c,cpp,python,qt&perline=2"
             />
         </td>
         <td valign="top" width="33%">
             <img
+                width="100%"
                 src="https://skillicons.dev/icons?i=java&perline=1"
             />
         </td>
@@ -99,16 +101,19 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
     <tr>
         <td valign="top" width="33%">
             <img
+                width="100%"
                 src="https://skillicons.dev/icons?i=react,ts,ts,html,css&perline=2"
             />
         </td>
         <td valign="top" width="33%">
             <img
+                width="100%"
                 src="https://skillicons.dev/icons?i=django,nodejs&perline=2"
             />
         </td>
         <td valign="top" width="33%">
             <img
+                width="100%"
                 src="https://skillicons.dev/icons?i=nextjs,spring&perline="
             />
         </td>
