@@ -19,9 +19,8 @@
 - [My Skill Set](#my-skill-set)
     - [Software Development](#software-development)
     - [Web Development](#web-development)
-    - [Level 3 - Competent](#level-3---competent)
-    - [Level 2 - Advanced Beginner](#level-2---advanced-beginner)
-    - [Level 1 - Novice](#level-1---novice)
+    - [Embedded Development](#embedded-development)
+    - [Tools \& IDE](#tools--ide)
 - [Connect with me](#connect-with-me)
 
 ## My Skill Set
@@ -35,97 +34,14 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 
 
 #### Software Development
-> ★★★✩✩
-> [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
-> ★★✩✩✩
-> [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-★★★✩✩
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt)](https://skillicons.dev)
-
-★★✩✩✩
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-
-<table width="100%">
-    <tr width="100%">
-        <th valign="top" width="33%">★★★✩✩</th>
-        <th valign="top" width="33%">★★✩✩✩</th>
-        <th valign="top" width="33%">★✩✩✩✩</th>
-    </tr>
-    <tr>
-        <td valign="top" width="33%">
-            <img
-                width="100%"
-                src="https://skillicons.dev/icons?i=c,cpp,python,qt&perline=2"
-            />
-        </td>
-        <td valign="top" width="33%">
-            <img src="https://skillicons.dev/icons?i=java"/>
-        </td>
-        <td valign="top" width="33%">
-        </td>
-    </tr>
-</table>
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt,java)](https://skillicons.dev)
 #### Web Development
-<table width="100%">
-    <tr width="100%">
-        <th valign="top" width="33%">★★★✩✩</th>
-        <th valign="top" width="33%">★★✩✩✩</th>
-        <th valign="top" width="33%">★✩✩✩✩</th>
-    </tr>
-    <tr>
-        <td valign="top" width="33%">
-            <img
-                width="100%"
-                src="https://skillicons.dev/icons?i=react,ts,ts,html,css&perline=2"
-            />
-        </td>
-        <td valign="top" width="33%">
-            <img
-                width="100%"
-                src="https://skillicons.dev/icons?i=django,nodejs&perline=2"
-            />
-        </td>
-        <td valign="top" width="33%">
-            <img
-                width="100%"
-                src="https://skillicons.dev/icons?i=nextjs,spring&perline="
-            />
-        </td>
-    </tr>
-</table>
-
-#### Level 3 - Competent
-
-<table width="100%"><tr>
-    <td valign="top" width="33%">
-        <h3>Competent</h3>
-        <h4># frontent</h4>
-        <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,figma,qt&perline=4" />
-        <h4># frontent</h4>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python,git,docker,vim,vscode&perline=4" />
-    </td>
-    <td valign="top" width="33%">
-    </td>
-    <td valign="top" width="33%">
-    </td>
-</tr></table>
-
-#### Level 2 - Advanced Beginner
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,django,discord,nodejs,pytorch,raspberrypi,arduino" />
-  </a>
-</p>
-
-#### Level 1 - Novice
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,mysql,unity,nextjs,r" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,spring)](https://skillicons.dev)
+#### Embedded Development
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+#### Tools & IDE
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,vscode,figma)](https://skillicons.dev)
 
 <hr />
 
