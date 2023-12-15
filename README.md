@@ -52,7 +52,7 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 <a href="https://www.linkedin.com/in/kwanho-kim-327152232/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue alt=instagram/>
 </a>  
-<a href="https://www.kkim.info" target="_blank">
-<img src=https://img.shields.io/badge/kkim.info-%23000000.svg?logo=none&style=for-the-badge&logo=instagram&logoColor=white alt=blog/>
+<a href="https://www.kkim.life" target="_blank">
+<img src=https://img.shields.io/badge/kkim.life-%23000000.svg?logo=none&style=for-the-badge&logo=instagram&logoColor=white alt=blog/>
 </a>  
 </div>
