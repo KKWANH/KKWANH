@@ -37,7 +37,16 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 #### Embedded Development
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
 #### Tools & IDE
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,vscode,figma,azure)](https://skillicons.dev)
+
+
+<!--<hr />
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,git,docker,vim,vscode,figma)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,html,css,azure,qt,arduino)](https://skillicons.dev)
+
+<hr />-->
 
 <hr />
 
