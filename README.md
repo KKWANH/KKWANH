@@ -30,12 +30,12 @@ Level judgement is based on [icombine.net](https://icombine.net/knowledge-base/s
 ```
 
 #### Software Development
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,qt,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,nextjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=django,nodejs,spring)](https://skillicons.dev)
 #### Embedded Development
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,arduino,qt)](https://skillicons.dev)
 #### Tools & IDE
 [![My Skills](https://skillicons.dev/icons?i=git,docker,vim,vscode,figma,azure)](https://skillicons.dev)
 
